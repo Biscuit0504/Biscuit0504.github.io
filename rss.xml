@@ -9,9 +9,9 @@
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Built with Docusaurus.</copyright>
         <item>
-            <title><![CDATA[前端工具函数]]></title>
-            <link>https://wangsizhu0504.gitee.io/wsz-vblog/GitHub Actions入门教程：自动化部署静态博客</link>
-            <guid>GitHub Actions入门教程：自动化部署静态博客</guid>
+            <title><![CDATA[GitHub Actions入门教程：自动化部署静态博客]]></title>
+            <link>https://wangsizhu0504.gitee.io/wsz-vblog/GitHub Actions</link>
+            <guid>GitHub Actions</guid>
             <pubDate>Fri, 26 Feb 2021 00:00:00 GMT</pubDate>
             <description><![CDATA[前言]]></description>
         </item>

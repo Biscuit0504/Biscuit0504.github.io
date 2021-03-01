@@ -9,9 +9,9 @@
     <icon>https://wangsizhu0504.gitee.io/wsz-vblog/img/favicon.ico</icon>
     <rights>Copyright © 2021 Built with Docusaurus.</rights>
     <entry>
-        <title type="html"><![CDATA[前端工具函数]]></title>
-        <id>GitHub Actions入门教程：自动化部署静态博客</id>
-        <link href="https://wangsizhu0504.gitee.io/wsz-vblog/GitHub Actions入门教程：自动化部署静态博客"/>
+        <title type="html"><![CDATA[GitHub Actions入门教程：自动化部署静态博客]]></title>
+        <id>GitHub Actions</id>
+        <link href="https://wangsizhu0504.gitee.io/wsz-vblog/GitHub Actions"/>
         <updated>2021-02-26T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[前言]]></summary>
     </entry>
