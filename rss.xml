@@ -4,10 +4,17 @@
         <title>小猪憨憨</title>
         <link>https://wangsizhu0504.gitee.io/wsz-vblog/</link>
         <description>小猪憨憨 Blog</description>
-        <lastBuildDate>Fri, 26 Feb 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 May 2021 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <copyright>Copyright © 2021 Built with Docusaurus.</copyright>
+        <item>
+            <title><![CDATA[阿里前端规范]]></title>
+            <link>https://wangsizhu0504.gitee.io/wsz-vblog/ali-web-standard</link>
+            <guid>ali-web-standard</guid>
+            <pubDate>Thu, 06 May 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[引自《阿里规约》的开头片段：]]></description>
+        </item>
         <item>
             <title><![CDATA[GitHub Actions入门教程：自动化部署静态博客]]></title>
             <link>https://wangsizhu0504.gitee.io/wsz-vblog/GitHub Actions</link>
